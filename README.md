@@ -1,4 +1,4 @@
-# Olá! Eu sou Enrico 👋
+# Enrico Moreira
 
 Estudante de Engenharia de Sistemas na UFMG com foco em Ciência de Dados, Machine Learning e Análise de Dados.
 
